@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+.main{
+    width: 50vw;
+    height: 165vh;
+    margin-left: 350px;
+    
+    background-color:white;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    
+    flex-direction:  row;
+}
+.he2{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 10px;
+    
+   
+
+}
+.he3{
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 30px;
+     
+
+}
+.h4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    background-color: rgb(214, 212, 212);
+}
+.cm{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.ip input{
+    border: none;
+    outline: none;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.b{
+    border-bottom: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+}
+
